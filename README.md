@@ -1,9 +1,9 @@
-#COMPUTER SCIENCE FUNDAMENTALS (CSF)
+#Eddie Washington COMPUTER SCIENCE FUNDAMENTALS (CSF)
 ###COURSE SYLLABUS
 
 **SESSION 1:**
-Using an IDE, components of a computer, static vs. 
-dynamic languages, running simple programs. 
+Using an IDE, components of a computer, static vs.
+dynamic languages, running simple programs.
 
 
 **SESSION 2:**
