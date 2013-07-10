@@ -1,12 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created with IntelliJ IDEA.
- * User: lambert
- * Date: 7/1/13
- * Time: 7:01 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Application {
 
     public static void main(String... args){
@@ -59,10 +52,6 @@ public class Application {
 
 
         reservationSystem.addReservation(reservation);
-
-
-
-       // reservationSystem.create(time,name,numberOfPeople);
 
 
 
