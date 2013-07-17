@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Created with IntelliJ IDEA.
  * User: eddiewashington
@@ -12,3 +13,18 @@ public class Application {
 
     }
 }
+=======
+public class Application {
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        Dog fido = new Chihuahua("Fido");
+        Dog rover = new Pitbull("Rover");
+        DogWalker walker = new DogWalker();
+        walker.walkDog(fido);
+        walker.walkDog(rover);
+    }
+}
+>>>>>>> 36711eca12ec6b9e678bac043bdcab80496249a5
